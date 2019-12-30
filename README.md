@@ -1,0 +1,3 @@
+components存放所有的展示型组件
+containers存放所有的容器型组件
+__test__存放所有的测试文件
